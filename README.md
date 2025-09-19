@@ -1,9 +1,5 @@
 
-# Welcome to My Profile
-
-<div align="center">
-  <td align="center"><img src="https://avatars.githubusercontent.com/u/100871546?v=4" width="200"/> </td>
-</div>
+# Welcome to My Profile..
 
 ## Doing at The Moment
 
