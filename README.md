@@ -79,6 +79,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
   <img width="12" />
+
+  
+  <img src="https://luau.org/assets/images/luau-88.png" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
