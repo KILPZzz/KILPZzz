@@ -87,7 +87,7 @@
 ###
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/gustavo-henryk-316628360)
-[![Gmail](https://img.shields.io/static/v1?message=gustavohenrykar01@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:gustavohenrykar01@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?message=gustavohenrykar01@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](gustavohenrykar01@gmail.com)
 
 
 
