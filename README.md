@@ -91,9 +91,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
 </a>
 
-<a href="mailto:gustavohenrykar01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-</a>
+<input type="text" value="gustavohenrykar01@gmail.com" id="email" readonly style="height:40px; font-size:16px;">
+<button onclick="navigator.clipboard.writeText(document.getElementById('email').value)">Copiar Email</button>
+
 
   
 </div>
