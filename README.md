@@ -13,19 +13,6 @@
 ## 💻 Programming languages I know
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60"/><br>Java</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="60"/><br>Lua</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/><br>Python</td>
-    <td align="center"><img src="https://luau.org/assets/images/luau-88.png" width="60"/><br>Luau</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="60"/><br>MySQL</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="60"/><br>PHP</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="60"/><br>HTML</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="60"/><br>CSS</td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠️ Tools and IDEs that i worked with:
@@ -89,6 +76,8 @@
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
