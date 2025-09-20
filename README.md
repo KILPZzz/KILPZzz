@@ -12,10 +12,9 @@
 
 ## 💻 Programming languages I know
 
-<div align="center">
----
 
-## 🛠️ Tools and IDEs that i worked with:
+
+## 🛠️ Languages, Softwares and IDEs that i worked with:
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
