@@ -3,8 +3,7 @@
 
 ## Doing at The Moment
 
-⚡️ Learning JavaScript, C++, C# 
-
+⚡️ Learning Minecraft Modding..
 
 
 
