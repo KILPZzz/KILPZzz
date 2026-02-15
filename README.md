@@ -34,8 +34,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -59,8 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
   <img width="12" />
   
-  <img src="https://luau.org/assets/images/luau-88.png" height="40" alt="luau logo"  />
-  <img width="12" />
+
   <img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg/revision/latest?cb=20250426203849" height="40" alt="roblox studio logo"  />
   <img width="12" />
 
