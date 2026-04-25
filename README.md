@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Gustavo Henryk 👋</h1>
 
 <p align="center">
-  Developer passionate about building things — from web apps to game mods.
+  Full Stack Developer passionate about building things — from web apps to game mods.
 </p>
 
 ---
