@@ -1,82 +1,72 @@
+<h1 align="center">Hello, I'm Gustavo Henryk 👋</h1>
 
-# Welcome to My Profile
+<p align="center">
+  Developer passionate about building things — from web apps to game mods.
+</p>
 
-## Doing at The Moment
+---
 
-⚡️ Learning Minecraft Modding..
+## 🚀 Currently
 
+- 📚 Always learning something new
 
+- ☕ Exploring **Minecraft Modding**
+---
 
+## 🛠️ Tech Stack
 
-
-## 🛠️ Programming languages, Softwares and IDEs that i worked with:
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  
-
-  <img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg/revision/latest?cb=20250426203849" height="40" alt="roblox studio logo"  />
-  <img width="12" />
-
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://dl.flathub.org/media/com/jetbrains/IntelliJ-IDEA-Community/4ca3073617da9400cd68a22c5544f207/icons/128x128/com.jetbrains.IntelliJ-IDEA-Community.png" height="40" alt="community-intej logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
-
-###
-#
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/gustavo-henryk-316628360)
-
-
-  
-</div>
-
-###
-
- 
+<table align="center">
+  <tr>
+    <td align="center" width="280">
+      <strong>🧠 Languages</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" title="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" title="Kotlin" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" title="PHP" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="36" title="LaTeX" />
+    </td>
+    <td align="center" width="220">
+      <strong>🎨 Frontend</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" title="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <strong>⚙️ Backend & Database</strong><br><br>
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="36" title="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" title="Spring" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="36" title="Apache Tomcat" />
+    </td>
+    <td align="center" width="220">
+      <strong>🛠️ Tools & IDEs</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" title="VS Code" />
+      <img src="https://dl.flathub.org/media/com/jetbrains/IntelliJ-IDEA-Community/4ca3073617da9400cd68a22c5544f207/icons/128x128/com.jetbrains.IntelliJ-IDEA-Community.png" height="36" title="IntelliJ IDEA" />
+      <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="36" title="Android Studio" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" title="Figma" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="36" title="Arduino" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>🎮 Game Development</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="36" title="Unreal Engine" />
+      &nbsp;&nbsp;
+      <img src="https://static.wikia.nocookie.net/logopedia/images/e/ee/Roblox_Studio_icon_2025.svg/revision/latest?cb=20250426203849" height="36" title="Roblox Studio" />
+    </td>
+  </tr>
 </table>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-henryk-316628360" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+  </a>
 </div>
-
-
