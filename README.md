@@ -36,7 +36,7 @@
     <td align="center" width="220">
       <strong>🎨 Frontend</strong><br><br>
       <img src="https://cdn.simpleicons.org/html5/C8A065" height="36" title="HTML5" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/css3.svg" height="36" title="CSS3" style="filter:invert(73%)sepia(40%)saturate(400%)hue-rotate(5deg)" />
+      <img src="https://cdn.simpleicons.org/css/C8A065" height="36" title="CSS3" />
       <img src="https://cdn.simpleicons.org/tailwindcss/C8A065" height="36" title="Tailwind CSS" />
     </td>
   </tr>
@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="220">
       <strong>🛠️ Tools & IDEs</strong><br><br>
-      <img src="https://code.visualstudio.com/assets/branding/code-stable-white.png" height="36" title="VS Code" style="filter:invert(48%)sepia(100%)saturate(100%)hue-rotate()" />
+      <img src="https://img.icons8.com/?size=100&id=102978&format=png&color=C8A065" height="36" title="VS Code">
       <img src="https://cdn.simpleicons.org/intellijidea/C8A065" height="36" title="IntelliJ IDEA" />
       <img src="https://cdn.simpleicons.org/androidstudio/C8A065" height="36" title="Android Studio" />
       <img src="https://cdn.simpleicons.org/figma/C8A065" height="36" title="Figma" />
