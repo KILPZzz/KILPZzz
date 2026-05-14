@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KILPZzz/KILPZzz/main/banner.gif" width="100%" height="320" style="object-fit:cover" />
+  <img src="https://raw.githubusercontent.com/KILPZzz/KILPZzz/main/banner.gif" width="100%" height="320" border-radius:5px style="object-fit:cover"  />
 </div>
 
 <h1 align="center">Hello, I'm Gustavo Henryk 👋</h1>
