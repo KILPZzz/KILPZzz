@@ -15,7 +15,7 @@
 
 ## 🚀 Currently
 - 📚 Always learning something new
-- ☕ Exploring **Minecraft Modding**
+- ☕ **
 
 ---
 
